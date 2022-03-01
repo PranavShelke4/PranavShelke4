@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aaditritechnology.com/images/redesign.gif)]
+![MasterHead](https://www.aaditritechnology.com/images/redesign.gif)
 <h1 align="center">Hi 👋, I'm Pranav Shelke</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
