@@ -25,6 +25,6 @@ Skills:   REACT JS / NODE JS / HTML / CSS
 <hr></hr>
 <h3 align="left"> Social Handles </h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ranjeet-programmer)  &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ranjeet-hinge-7884b019b/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/PranavShelke4)  &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/pranav-shelke-3485ab1a4/)
 <hr></hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&locale=en" alt="ranjeet-programmer" /></p>
