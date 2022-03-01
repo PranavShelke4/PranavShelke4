@@ -2,9 +2,9 @@
 ## Full Stack Web Developer 
 ![Full Stack Web Developer ](https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg)
 
-I'm a Full Stack Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in  DSA Problem Solving.
+I'm a Full Stack Web Developer who loves to code websites. I am always ready for learning new stuff and share my knowledge as much as I can.  The technologies in which I feel comfortable are React JS, Express JS, Mongo DB. I  also have decent experience in Ethical Hacking.
 
-Skills:   REACT JS / NODE JS / HTML / CSS
+Skills:   REACT JS / NODE JS / MongoDB / HTML / CSS
 
 - 🌱 I’m currently learning Ethical Hacking 
 - 💬 Ask me about Web Development 
@@ -27,4 +27,4 @@ Skills:   REACT JS / NODE JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/PranavShelke4)  &nbsp;       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/pranav-shelke-3485ab1a4/)
 <hr></hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeet-programmer&show_icons=true&locale=en" alt="ranjeet-programmer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranavShelke4&show_icons=true&locale=en" alt="ranjeet-programmer" /></p>
