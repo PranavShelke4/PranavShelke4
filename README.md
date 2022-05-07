@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [http://pranavshelke.webeeyo.com/](http://pranavshelke.webeeyo.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/PranavShelke4](https://github.com/PranavShelke4)
 
 - 📝 I regularly write articles on [http://infofeedhub.com/](http://infofeedhub.com/)
 
