@@ -10,13 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranavShelke4](https://github.com/PranavShelke4)
 
-- 📝 I regularly write articles on [http://infofeedhub.com/](http://infofeedhub.com/)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **pranavshelkeofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uChKPOvlCd73hDstJsiE7yCvdvYKo_e5/view?usp=sharing](https://drive.google.com/file/d/1uChKPOvlCd73hDstJsiE7yCvdvYKo_e5/view?usp=sharing)
+- 📄 Know about my experiences [pranavshelke.com](pranavshelke.com)
 
 - ⚡ Fun fact **I think I am funny**
 
