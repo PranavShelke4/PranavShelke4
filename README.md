@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pranavshelkeofficial@gmail.com**
 
-- 📄 Know about my experiences [pranavshelke.com](https://pranavshelke.com)
+- 📄 Know about my experiences [pranavshelke.tech](https://pranavshelke.tech)
 
 - ⚡ Fun fact **I think I am funny**
 
