@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **pranavshelkeofficial@gmail.com**
+- 📫 How to reach me **pranavshelke4@gmail.com**
 
 - 📄 Know about my experiences [pranavshelke.tech](https://pranavshelke.tech)
 
