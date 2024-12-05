@@ -71,11 +71,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavShelke4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PranavShelke4&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShelke4&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PranavShelke4&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=PranavShelke4&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShelke4&layout=compact&theme=tokyonight" alt="Most Used Languages" /> </p>
 
 ---
 
@@ -86,4 +82,4 @@
 
 ---
 
-<p align="center">✨ Built with ❤️ by Pranav Shelke ✨</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=✨+Built+with+❤️+by+Pranav+Shelke!+✨" alt="Typing SVG Footer"> </p> <p align="center"> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Rocket Animation" width="300"/> </p>
